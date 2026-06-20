@@ -1,12 +1,12 @@
-# Rumah Sakit Umum Riung
+# Rumah Sakit Pratama Riung
 
-Website statis sederhana untuk Rumah Sakit Umum Riung dengan tampilan modern, responsif, bersih, dan profesional.
+Website statis sederhana untuk Rumah Sakit Pratama Riung dengan tampilan modern, responsif, bersih, dan profesional.
 
 ## Isi Website
 
 - Header dan navigasi responsif
 - Hero section dengan gambar tenaga medis
-- Tentang Rumah Sakit Umum Riung
+- Tentang Rumah Sakit Pratama Riung
 - Visi dan misi
 - Layanan unggulan
 - Dokter dan tenaga medis
