@@ -1,3 +1,11 @@
+const siteHeader = document.querySelector(".site-header");
+
+const updateHeaderState = () => {
+  siteHeader.classList.toggle("scrolled", window.scrollY > 12);
+};
+
+updateHeaderState();
+window.addEventListener("scroll", updateHeaderState, { passive: true });
 const navToggle = document.querySelector(".nav-toggle");
 const navMenu = document.querySelector(".nav-menu");
 const navLinks = document.querySelectorAll(".nav-menu a");
